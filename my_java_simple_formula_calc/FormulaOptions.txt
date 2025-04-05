@@ -1,0 +1,21 @@
+Format:|No.#:|Formula name/description:|Formula:|Variable to solve:|Info/none: /x:/y:/z:|Continued solution/none|
+
+1.|Formula name/description: Slope-Intercept Form of a Line|Formula: y = m*x + b|Variable to solve: y|Info: /m: slope /b: y-intercept /x: independent variable|Continued solution/none: none
+
+2.|Formula name/description: Standard Form of a Line|Formula: A*x + B*y = C|Variable to solve: none|Info: /A: constant /B: constant /C: constant|Continued solution/none: none
+
+3.|Formula name/description: Simple Interest|Formula: I = P*r*t|Variable to solve: I|Info: /P: principal /r: interest rate /t: time|Continued solution/none: none
+
+4.|Formula name/description: Compound Interest|Formula: A = P*(1 + r/n)^(n*t)|Variable to solve: A|Info: /P: principal /r: interest rate /n: compounding frequency /t: time|Continued solution/none: none
+
+5.|Formula name/description: Pythagorean Theorem|Formula: c^2 = a^2 + b^2|Variable to solve: c|Info: /a: leg of right triangle /b: leg of right triangle /c: hypotenuse|Continued solution/none: c = sqrt(answer)
+
+6.|Formula name/description: Area of a Rectangle|Formula: A = l*w|Variable to solve: A|Info: /l: length /w: width|Continued solution/none: none
+
+7.|Formula name/description: Area of a Triangle|Formula: A = (1/2)*b*h|Variable to solve: A|Info: /b: base /h: height|Continued solution/none: none
+
+8.|Formula name/description: Perimeter of a Rectangle|Formula: P = 2*l + 2*w|Variable to solve: P|Info: /l: length /w: width|Continued solution/none: none
+
+9.|Formula name/description: Circumference of a Circle|Formula: C = 2*p*r|Variable to solve: C|Info: /p: represents pi (approx. 3.14159) /r: radius|Continued solution/none: none
+
+10.|Formula name/description: Area of a Circle|Formula: A = p*r^2|Variable to solve: A|Info: /p: represents pi (approx. 3.14159) /r: radius|Continued solution/none: none
